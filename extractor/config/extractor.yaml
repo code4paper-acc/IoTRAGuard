@@ -1,0 +1,9 @@
+# config file for data extraction from different IoT projects:
+projects: [
+projects/contiki,
+projects/RIOT,
+projects/zephyrproject,
+]
+save:
+  database: ./datasets/IoTRAGuard.db
+  override: True

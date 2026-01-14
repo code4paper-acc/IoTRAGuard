@@ -1,0 +1,4 @@
+# Only handle CVE records for these projects
+projects:
+  - zephyr
+  # - zephyrproject
